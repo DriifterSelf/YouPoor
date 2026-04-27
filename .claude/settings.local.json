@@ -1,0 +1,30 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:lucida.to)",
+      "Bash(mkdir -p backend)",
+      "Bash(python -m venv venv)",
+      "Bash(./gradlew build *)",
+      "Bash(where ffmpeg *)",
+      "PowerShell(Get-Command *)",
+      "Bash(/c/Users/uwu/AndroidStudioProjects/youpoor/backend/.venv/Scripts/python.exe *)",
+      "Bash(.venv/Scripts/python.exe -m yt_dlp --cookies cookies.txt --list-formats \"https://www.youtube.com/watch?v=CaJZnHHP7Bo\")",
+      "Bash(deno --version)",
+      "WebFetch(domain:github.com)",
+      "Bash(.venv/Scripts/python.exe -m pip install -U \"yt-dlp[default]\")",
+      "Bash(.venv/Scripts/python.exe -m yt_dlp --version)",
+      "Bash(.venv/Scripts/python.exe -m yt_dlp --cookies cookies.txt -F \"https://www.youtube.com/watch?v=CaJZnHHP7Bo\" -v)",
+      "Bash(.venv/Scripts/python.exe *)",
+      "Bash(./gradlew :app:compileDebugKotlin)",
+      "Bash(./gradlew :app:compileDebugKotlin --stacktrace)",
+      "Bash(grep -oE '\"role\":\"user\",\"content\":\"[^\"]{10,500}\"' \"C:/Users/uwu/.claude/projects/C--Users-uwu-AndroidStudioProjects-youpoor/e9c6772a-3269-4e95-b462-6cd6484b8fcc.jsonl\")",
+      "Bash(grep *)",
+      "Bash(./gradlew :app:assembleDebug)",
+      "Bash(gradle *)",
+      "PowerShell(Stop-Process *)",
+      "Bash(git init *)",
+      "Bash(git add *)",
+      "Bash(git commit *)"
+    ]
+  }
+}

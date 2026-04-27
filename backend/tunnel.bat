@@ -1,0 +1,1 @@
+cloudflared tunnel --config C:\Users\uwu\.cloudflared\config.yml run youpoor

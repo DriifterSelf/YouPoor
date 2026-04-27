@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YouPoor</string>
+
+    <!-- Navigation tabs -->
+    <string name="tab_search">Search</string>
+    <string name="tab_player">Player</string>
+
+    <!-- Search screen -->
+    <string name="search_placeholder">Search music, artists…</string>
+    <string name="search_button_description">Search</string>
+    <string name="search_idle_title">Search for music</string>
+    <string name="search_idle_subtitle">Discover thousands of songs</string>
+    <string name="search_empty_title">No results found</string>
+    <string name="search_loading_title">Searching…</string>
+    <string name="search_error_title">Something went wrong</string>
+    <string name="search_download_description">Download</string>
+
+    <!-- Player screen -->
+    <string name="player_no_track">No track selected</string>
+    <string name="player_no_track_subtitle">Choose a track from your library below</string>
+    <string name="player_library_header">Library</string>
+    <string name="player_control_previous">Previous</string>
+    <string name="player_control_play">Play</string>
+    <string name="player_control_pause">Pause</string>
+    <string name="player_control_next">Next</string>
+    <string name="player_card_play_description">Play</string>
+
+    <!-- Mini player -->
+    <string name="mini_player_play">Play</string>
+    <string name="mini_player_pause">Pause</string>
+</resources>
